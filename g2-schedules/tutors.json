@@ -1,0 +1,504 @@
+
+
+
+
+
+
+
+
+
+
+
+  {
+  
+  
+  
+    "properties" : {"highlightstyle":"railscasts","parent":"../index.html","credits":"Department of Computing & Mathematics, WIT","faPanelicon":"fas fa-compass","faColour":"#304ffe","submodule":"true","slack":"https://wit-hdip-comp-sci.slack.com/messages/C86J6B55M/","moodle":"https://moodle.wit.ie/course/view.php?id=132121","courseurl":"https://wit-hdip-comp-sci-2019.github.io/","youtube":"https://www.youtube.com/channel/UCOJZMc0BQDXDljzdcxP2EDw/playlists","favicon":"favicon.ico","crest":"crestwit.jpg","cresturl":"https://www.wit.ie/courses/school/science/department_of_computing_maths_physics/hdipcomputerscience2yearparttime","license":"Unless otherwise stated, this work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>.","basecourseurl":"wit-hdip-comp-sci-2019.github.io/"}
+  
+,
+  "type" : "course",
+  "title" : "Calendars & Timetables ",
+  "img" : "https://wit-hdip-comp-sci-2019.github.io//",
+  
+  
+
+  "summary" : "timetables · semester calendars · assessment schedules",
+  "id": "g2-schedules",
+  
+    "route" : "#course/wit-hdip-comp-sci-2019.github.io/"
+  
+,
+  "los" : [  {
+  
+  
+  
+  
+    "properties" : {"highlightstyle":"railscasts","faPanelicon":"far fa-calendar","parent":"../index.html","credits":"Department of Computing & Mathematics, WIT","faColour":"#304ffe","submodule":"true","slack":"https://wit-hdip-comp-sci.slack.com/messages/C86J6B55M/","moodle":"https://moodle.wit.ie/course/view.php?id=132121","courseurl":"https://wit-hdip-comp-sci-2019.github.io/","youtube":"https://www.youtube.com/channel/UCOJZMc0BQDXDljzdcxP2EDw/playlists","favicon":"favicon.ico","crest":"crestwit.jpg","cresturl":"https://www.wit.ie/courses/school/science/department_of_computing_maths_physics/hdipcomputerscience2yearparttime","license":"Unless otherwise stated, this work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>.","basecourseurl":"wit-hdip-comp-sci-2019.github.io/"}
+  
+,
+  "type" : "topic",
+  "title" : "Semester 1: Jan-June 2019 ",
+  "img" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s1/topic.png",
+  
+  
+
+  "summary" : "timetables · semester calendars · assessment schedules",
+  "id": "topic-1-s1",
+  
+    "route" : "#topic/wit-hdip-comp-sci-2019.github.io/topic-1-s1"
+  
+,
+  "los": [
+   {
+    
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "unit",
+  "title" : "Semester 1: January - June 2019 ",
+  "img" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s1/unit-1-sem-1/talk-1-timetable-s1/",
+  
+  
+
+  "summary" : "Semester 1: January - June 2019",
+  "id": "unit-1-sem-1",
+  
+    "route" : "#topic/wit-hdip-comp-sci-2019.github.io/topic-1-s1/unit-1-sem-1"
+  
+
+    
+  
+    ,"los" : [
+     {
+      
+  
+  
+    "properties" : {"highlightstyle":"railscasts","faPanelicon":"fas fa-clock fa-10x","parent":"../index.html","credits":"Department of Computing & Mathematics, WIT","faColour":"#304ffe","submodule":"true","slack":"https://wit-hdip-comp-sci.slack.com/messages/C86J6B55M/","moodle":"https://moodle.wit.ie/course/view.php?id=132121","courseurl":"https://wit-hdip-comp-sci-2019.github.io/","youtube":"https://www.youtube.com/channel/UCOJZMc0BQDXDljzdcxP2EDw/playlists","favicon":"favicon.ico","crest":"crestwit.jpg","cresturl":"https://www.wit.ie/courses/school/science/department_of_computing_maths_physics/hdipcomputerscience2yearparttime","license":"Unless otherwise stated, this work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>.","basecourseurl":"wit-hdip-comp-sci-2019.github.io/"}
+  
+,
+  "type" : "talk",
+  "title" : "Weekly Timetable ",
+  "img" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s1/unit-1-sem-1/talk-1-timetable-s1/",
+  
+  
+
+  "summary" : "webinars  schedule · lab support · slack",
+  "id": "talk-1-timetable-s1",
+  
+    "pdf" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s1/unit-1-sem-1/talk-1-timetable-s1/timetable.pdf",
+    "route" : "#talk/wit-hdip-comp-sci-2019.github.io/topic-1-s1/unit-1-sem-1/talk-1-timetable-s1/timetable.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {"highlightstyle":"railscasts","faPanelicon":"fas fa-calendar-alt fa-10x","parent":"../index.html","credits":"Department of Computing & Mathematics, WIT","faColour":"#304ffe","submodule":"true","slack":"https://wit-hdip-comp-sci.slack.com/messages/C86J6B55M/","moodle":"https://moodle.wit.ie/course/view.php?id=132121","courseurl":"https://wit-hdip-comp-sci-2019.github.io/","youtube":"https://www.youtube.com/channel/UCOJZMc0BQDXDljzdcxP2EDw/playlists","favicon":"favicon.ico","crest":"crestwit.jpg","cresturl":"https://www.wit.ie/courses/school/science/department_of_computing_maths_physics/hdipcomputerscience2yearparttime","license":"Unless otherwise stated, this work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>.","basecourseurl":"wit-hdip-comp-sci-2019.github.io/"}
+  
+,
+  "type" : "talk",
+  "title" : "Academic Calendar  ",
+  "img" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s1/unit-1-sem-1/talk-2-academic-calendar-s1/",
+  
+  
+
+  "summary" : "weeks · reading week  · semester · onsites",
+  "id": "talk-2-academic-calendar-s1",
+  
+    "pdf" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s1/unit-1-sem-1/talk-2-academic-calendar-s1/calendar.pdf",
+    "route" : "#talk/wit-hdip-comp-sci-2019.github.io/topic-1-s1/unit-1-sem-1/talk-2-academic-calendar-s1/calendar.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+,
+  "type" : "talk",
+  "title" : "",
+  "img" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s1/unit-1-sem-1/undefined/",
+  
+  
+
+  "summary" : "",
+  "id": "",
+  
+    "pdf" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s1/unit-1-sem-1/undefined/error: missing talk",
+    "route" : "#talk/wit-hdip-comp-sci-2019.github.io/topic-1-s1/unit-1-sem-1/undefined/error: missing talk"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {"highlightstyle":"railscasts","faPanelicon":"fas fa-calendar-check fa-10x","parent":"../index.html","credits":"Department of Computing & Mathematics, WIT","faColour":"#304ffe","submodule":"true","slack":"https://wit-hdip-comp-sci.slack.com/messages/C86J6B55M/","moodle":"https://moodle.wit.ie/course/view.php?id=132121","courseurl":"https://wit-hdip-comp-sci-2019.github.io/","youtube":"https://www.youtube.com/channel/UCOJZMc0BQDXDljzdcxP2EDw/playlists","favicon":"favicon.ico","crest":"crestwit.jpg","cresturl":"https://www.wit.ie/courses/school/science/department_of_computing_maths_physics/hdipcomputerscience2yearparttime","license":"Unless otherwise stated, this work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>.","basecourseurl":"wit-hdip-comp-sci-2019.github.io/"}
+  
+,
+  "type" : "talk",
+  "title" : "Assessment Schedule ",
+  "img" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s1/unit-1-sem-1/talk-3-assesment-schedule-sem-1/",
+  
+  
+
+  "summary" : "schedule · release · submission · dropboxes  · A1  · A2  · A3",
+  "id": "talk-3-assesment-schedule-sem-1",
+  
+    "pdf" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s1/unit-1-sem-1/talk-3-assesment-schedule-sem-1/assessment.pdf",
+    "route" : "#talk/wit-hdip-comp-sci-2019.github.io/topic-1-s1/unit-1-sem-1/talk-3-assesment-schedule-sem-1/assessment.pdf"
+  
+
+      } 
+     ]
+  
+
+    } 
+   ]
+
+  },
+ {
+  
+  
+  
+  
+    "properties" : {"highlightstyle":"railscasts","faPanelicon":"far fa-calendar","parent":"../index.html","credits":"Department of Computing & Mathematics, WIT","faColour":"#304ffe","submodule":"true","slack":"https://wit-hdip-comp-sci.slack.com/messages/C86J6B55M/","moodle":"https://moodle.wit.ie/course/view.php?id=132121","courseurl":"https://wit-hdip-comp-sci-2019.github.io/","youtube":"https://www.youtube.com/channel/UCOJZMc0BQDXDljzdcxP2EDw/playlists","favicon":"favicon.ico","crest":"crestwit.jpg","cresturl":"https://www.wit.ie/courses/school/science/department_of_computing_maths_physics/hdipcomputerscience2yearparttime","license":"Unless otherwise stated, this work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>.","basecourseurl":"wit-hdip-comp-sci-2019.github.io/"}
+  
+,
+  "type" : "topic",
+  "title" : "Semester 2: Sep-Dec 2019 ",
+  "img" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s2/topic.png",
+  
+  
+
+  "summary" : "timetables · semester calendars · assessment schedules",
+  "id": "topic-1-s2",
+  
+    "route" : "#topic/wit-hdip-comp-sci-2019.github.io/topic-1-s2"
+  
+,
+  "los": [
+   {
+    
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "unit",
+  "title" : "Semester 2: September - December 2018 ",
+  "img" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s2/unit-2-sem-2/talk-1-timetable-s2/",
+  
+  
+
+  "summary" : "Semester 2: September - December 2018",
+  "id": "unit-2-sem-2",
+  
+    "route" : "#topic/wit-hdip-comp-sci-2019.github.io/topic-1-s2/unit-2-sem-2"
+  
+
+    
+  
+    ,"los" : [
+     {
+      
+  
+  
+    "properties" : {"highlightstyle":"railscasts","faPanelicon":"fas fa-clock fa-10x","parent":"../index.html","credits":"Department of Computing & Mathematics, WIT","faColour":"#304ffe","submodule":"true","slack":"https://wit-hdip-comp-sci.slack.com/messages/C86J6B55M/","moodle":"https://moodle.wit.ie/course/view.php?id=132121","courseurl":"https://wit-hdip-comp-sci-2019.github.io/","youtube":"https://www.youtube.com/channel/UCOJZMc0BQDXDljzdcxP2EDw/playlists","favicon":"favicon.ico","crest":"crestwit.jpg","cresturl":"https://www.wit.ie/courses/school/science/department_of_computing_maths_physics/hdipcomputerscience2yearparttime","license":"Unless otherwise stated, this work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>.","basecourseurl":"wit-hdip-comp-sci-2019.github.io/"}
+  
+,
+  "type" : "talk",
+  "title" : "Weekly Timetable ",
+  "img" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s2/unit-2-sem-2/talk-1-timetable-s2/",
+  
+  
+
+  "summary" : "webinars  · lab support · adobe connect · slack",
+  "id": "talk-1-timetable-s2",
+  
+    "pdf" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s2/unit-2-sem-2/talk-1-timetable-s2/timetable.pdf",
+    "route" : "#talk/wit-hdip-comp-sci-2019.github.io/topic-1-s2/unit-2-sem-2/talk-1-timetable-s2/timetable.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {"highlightstyle":"railscasts","faPanelicon":"fas fa-calendar-alt fa-10x","parent":"../index.html","credits":"Department of Computing & Mathematics, WIT","faColour":"#304ffe","submodule":"true","slack":"https://wit-hdip-comp-sci.slack.com/messages/C86J6B55M/","moodle":"https://moodle.wit.ie/course/view.php?id=132121","courseurl":"https://wit-hdip-comp-sci-2019.github.io/","youtube":"https://www.youtube.com/channel/UCOJZMc0BQDXDljzdcxP2EDw/playlists","favicon":"favicon.ico","crest":"crestwit.jpg","cresturl":"https://www.wit.ie/courses/school/science/department_of_computing_maths_physics/hdipcomputerscience2yearparttime","license":"Unless otherwise stated, this work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>.","basecourseurl":"wit-hdip-comp-sci-2019.github.io/"}
+  
+,
+  "type" : "talk",
+  "title" : "Academic Calendar  ",
+  "img" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s2/unit-2-sem-2/talk-2-academic-calendar-s2/",
+  
+  
+
+  "summary" : "weeks · reading week  · semester · onsites",
+  "id": "talk-2-academic-calendar-s2",
+  
+    "pdf" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s2/unit-2-sem-2/talk-2-academic-calendar-s2/calendar.pdf",
+    "route" : "#talk/wit-hdip-comp-sci-2019.github.io/topic-1-s2/unit-2-sem-2/talk-2-academic-calendar-s2/calendar.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {"highlightstyle":"railscasts","faPanelicon":"fas fa-calendar-check fa-10x","parent":"../index.html","credits":"Department of Computing & Mathematics, WIT","faColour":"#304ffe","submodule":"true","slack":"https://wit-hdip-comp-sci.slack.com/messages/C86J6B55M/","moodle":"https://moodle.wit.ie/course/view.php?id=132121","courseurl":"https://wit-hdip-comp-sci-2019.github.io/","youtube":"https://www.youtube.com/channel/UCOJZMc0BQDXDljzdcxP2EDw/playlists","favicon":"favicon.ico","crest":"crestwit.jpg","cresturl":"https://www.wit.ie/courses/school/science/department_of_computing_maths_physics/hdipcomputerscience2yearparttime","license":"Unless otherwise stated, this work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>.","basecourseurl":"wit-hdip-comp-sci-2019.github.io/"}
+  
+,
+  "type" : "talk",
+  "title" : "Assessment Schedule  ",
+  "img" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s2/unit-2-sem-2/talk-3-assesment-schedule-sem-1/",
+  
+  
+
+  "summary" : "schedule · release · submission  · C1  · C2  · D1 · D2",
+  "id": "talk-3-assesment-schedule-sem-1",
+  
+    "pdf" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s2/unit-2-sem-2/talk-3-assesment-schedule-sem-1/assessment.pdf",
+    "route" : "#talk/wit-hdip-comp-sci-2019.github.io/topic-1-s2/unit-2-sem-2/talk-3-assesment-schedule-sem-1/assessment.pdf"
+  
+
+      } 
+     ]
+  
+
+    } 
+   ]
+
+  },
+ {
+  
+  
+  
+  
+    "properties" : {"highlightstyle":"railscasts","faPanelicon":"far fa-calendar","disable":true,"parent":"../index.html","credits":"Department of Computing & Mathematics, WIT","faColour":"#304ffe","submodule":"true","slack":"https://wit-hdip-comp-sci.slack.com/messages/C86J6B55M/","moodle":"https://moodle.wit.ie/course/view.php?id=132121","courseurl":"https://wit-hdip-comp-sci-2019.github.io/","youtube":"https://www.youtube.com/channel/UCOJZMc0BQDXDljzdcxP2EDw/playlists","favicon":"favicon.ico","crest":"crestwit.jpg","cresturl":"https://www.wit.ie/courses/school/science/department_of_computing_maths_physics/hdipcomputerscience2yearparttime","license":"Unless otherwise stated, this work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>.","basecourseurl":"wit-hdip-comp-sci-2019.github.io/"}
+  
+,
+  "type" : "topic",
+  "title" : "Semester 3: Jan-Jun 2020 ",
+  "img" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s3/topic.png",
+  
+  
+
+  "summary" : "timetables · semester calendars · assessment schedules",
+  "id": "topic-1-s3",
+  
+    "route" : "#topic/wit-hdip-comp-sci-2019.github.io/topic-1-s3"
+  
+,
+  "los": [
+   {
+    
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "unit",
+  "title" : "Semester 3: January - June 2019 ",
+  "img" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s3/unit-3-sem-3/talk-1-timetable-s4/",
+  
+  
+
+  "summary" : "Semester 3: January - June 2019",
+  "id": "unit-3-sem-3",
+  
+    "route" : "#topic/wit-hdip-comp-sci-2019.github.io/topic-1-s3/unit-3-sem-3"
+  
+
+    
+  
+    ,"los" : [
+     {
+      
+  
+  
+    "properties" : {"highlightstyle":"railscasts","faPanelicon":"fas fa-clock fa-10x","disable":true,"parent":"../index.html","credits":"Department of Computing & Mathematics, WIT","faColour":"#304ffe","submodule":"true","slack":"https://wit-hdip-comp-sci.slack.com/messages/C86J6B55M/","moodle":"https://moodle.wit.ie/course/view.php?id=132121","courseurl":"https://wit-hdip-comp-sci-2019.github.io/","youtube":"https://www.youtube.com/channel/UCOJZMc0BQDXDljzdcxP2EDw/playlists","favicon":"favicon.ico","crest":"crestwit.jpg","cresturl":"https://www.wit.ie/courses/school/science/department_of_computing_maths_physics/hdipcomputerscience2yearparttime","license":"Unless otherwise stated, this work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>.","basecourseurl":"wit-hdip-comp-sci-2019.github.io/"}
+  
+,
+  "type" : "talk",
+  "title" : "Weekly Timetable  ",
+  "img" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s3/unit-3-sem-3/talk-1-timetable-s4/",
+  
+  
+
+  "summary" : "webinars  · lab support · adobe connect · slack",
+  "id": "talk-1-timetable-s4",
+  
+    "pdf" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s3/unit-3-sem-3/talk-1-timetable-s4/timetable.pdf",
+    "route" : "#talk/wit-hdip-comp-sci-2019.github.io/topic-1-s3/unit-3-sem-3/talk-1-timetable-s4/timetable.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {"highlightstyle":"railscasts","faPanelicon":"fas fa-calendar-alt fa-10x","disable":true,"parent":"../index.html","credits":"Department of Computing & Mathematics, WIT","faColour":"#304ffe","submodule":"true","slack":"https://wit-hdip-comp-sci.slack.com/messages/C86J6B55M/","moodle":"https://moodle.wit.ie/course/view.php?id=132121","courseurl":"https://wit-hdip-comp-sci-2019.github.io/","youtube":"https://www.youtube.com/channel/UCOJZMc0BQDXDljzdcxP2EDw/playlists","favicon":"favicon.ico","crest":"crestwit.jpg","cresturl":"https://www.wit.ie/courses/school/science/department_of_computing_maths_physics/hdipcomputerscience2yearparttime","license":"Unless otherwise stated, this work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>.","basecourseurl":"wit-hdip-comp-sci-2019.github.io/"}
+  
+,
+  "type" : "talk",
+  "title" : "Academic Calendar  ",
+  "img" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s3/unit-3-sem-3/talk-2-academic-calendar-s4/",
+  
+  
+
+  "summary" : "weeks · reading week  · semester · onsites",
+  "id": "talk-2-academic-calendar-s4",
+  
+    "pdf" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s3/unit-3-sem-3/talk-2-academic-calendar-s4/calendar.pdf",
+    "route" : "#talk/wit-hdip-comp-sci-2019.github.io/topic-1-s3/unit-3-sem-3/talk-2-academic-calendar-s4/calendar.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {"highlightstyle":"railscasts","faPanelicon":"fas fa-calendar-check fa-10x","disable":true,"parent":"../index.html","credits":"Department of Computing & Mathematics, WIT","faColour":"#304ffe","submodule":"true","slack":"https://wit-hdip-comp-sci.slack.com/messages/C86J6B55M/","moodle":"https://moodle.wit.ie/course/view.php?id=132121","courseurl":"https://wit-hdip-comp-sci-2019.github.io/","youtube":"https://www.youtube.com/channel/UCOJZMc0BQDXDljzdcxP2EDw/playlists","favicon":"favicon.ico","crest":"crestwit.jpg","cresturl":"https://www.wit.ie/courses/school/science/department_of_computing_maths_physics/hdipcomputerscience2yearparttime","license":"Unless otherwise stated, this work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>.","basecourseurl":"wit-hdip-comp-sci-2019.github.io/"}
+  
+,
+  "type" : "talk",
+  "title" : "Assessment Schedule  ",
+  "img" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s3/unit-3-sem-3/talk-3-assesment-schedule-sem-5/",
+  
+  
+
+  "summary" : "schedule · release · submission · dropboxes  · A1  · A2  · A3",
+  "id": "talk-3-assesment-schedule-sem-5",
+  
+    "pdf" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s3/unit-3-sem-3/talk-3-assesment-schedule-sem-5/assessment.pdf",
+    "route" : "#talk/wit-hdip-comp-sci-2019.github.io/topic-1-s3/unit-3-sem-3/talk-3-assesment-schedule-sem-5/assessment.pdf"
+  
+
+      } 
+     ]
+  
+
+    } 
+   ]
+
+  },
+ {
+  
+  
+  
+  
+    "properties" : {"highlightstyle":"railscasts","faPanelicon":"far fa-calendar","disable":true,"parent":"../index.html","credits":"Department of Computing & Mathematics, WIT","faColour":"#304ffe","submodule":"true","slack":"https://wit-hdip-comp-sci.slack.com/messages/C86J6B55M/","moodle":"https://moodle.wit.ie/course/view.php?id=132121","courseurl":"https://wit-hdip-comp-sci-2019.github.io/","youtube":"https://www.youtube.com/channel/UCOJZMc0BQDXDljzdcxP2EDw/playlists","favicon":"favicon.ico","crest":"crestwit.jpg","cresturl":"https://www.wit.ie/courses/school/science/department_of_computing_maths_physics/hdipcomputerscience2yearparttime","license":"Unless otherwise stated, this work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>.","basecourseurl":"wit-hdip-comp-sci-2019.github.io/"}
+  
+,
+  "type" : "topic",
+  "title" : "Semester 4: Sep-Dec 2020 ",
+  "img" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s4/topic.png",
+  
+  
+
+  "summary" : "timetables · semester calendars · assessment schedules",
+  "id": "topic-1-s4",
+  
+    "route" : "#topic/wit-hdip-comp-sci-2019.github.io/topic-1-s4"
+  
+,
+  "los": [
+   {
+    
+  
+  
+    "properties" : {}
+  
+,
+  "type" : "unit",
+  "title" : "Semester 4 : September - December 2019 ",
+  "img" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s4/unit-4-sem-4/talk-1-timetable-s3/",
+  
+  
+
+  "summary" : "Semester 4 : September - December 2019",
+  "id": "unit-4-sem-4",
+  
+    "route" : "#topic/wit-hdip-comp-sci-2019.github.io/topic-1-s4/unit-4-sem-4"
+  
+
+    
+  
+    ,"los" : [
+     {
+      
+  
+  
+    "properties" : {"highlightstyle":"railscasts","faPanelicon":"fas fa-clock fa-10x","disable":true,"parent":"../index.html","credits":"Department of Computing & Mathematics, WIT","faColour":"#304ffe","submodule":"true","slack":"https://wit-hdip-comp-sci.slack.com/messages/C86J6B55M/","moodle":"https://moodle.wit.ie/course/view.php?id=132121","courseurl":"https://wit-hdip-comp-sci-2019.github.io/","youtube":"https://www.youtube.com/channel/UCOJZMc0BQDXDljzdcxP2EDw/playlists","favicon":"favicon.ico","crest":"crestwit.jpg","cresturl":"https://www.wit.ie/courses/school/science/department_of_computing_maths_physics/hdipcomputerscience2yearparttime","license":"Unless otherwise stated, this work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>.","basecourseurl":"wit-hdip-comp-sci-2019.github.io/"}
+  
+,
+  "type" : "talk",
+  "title" : "Weekly Timetable  ",
+  "img" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s4/unit-4-sem-4/talk-1-timetable-s3/",
+  
+  
+
+  "summary" : "webinars  · lab support · adobe connect · slack",
+  "id": "talk-1-timetable-s3",
+  
+    "pdf" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s4/unit-4-sem-4/talk-1-timetable-s3/timetable.pdf",
+    "route" : "#talk/wit-hdip-comp-sci-2019.github.io/topic-1-s4/unit-4-sem-4/talk-1-timetable-s3/timetable.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {"highlightstyle":"railscasts","faPanelicon":"fas fa-calendar-alt fa-10x","disable":true,"parent":"../index.html","credits":"Department of Computing & Mathematics, WIT","faColour":"#304ffe","submodule":"true","slack":"https://wit-hdip-comp-sci.slack.com/messages/C86J6B55M/","moodle":"https://moodle.wit.ie/course/view.php?id=132121","courseurl":"https://wit-hdip-comp-sci-2019.github.io/","youtube":"https://www.youtube.com/channel/UCOJZMc0BQDXDljzdcxP2EDw/playlists","favicon":"favicon.ico","crest":"crestwit.jpg","cresturl":"https://www.wit.ie/courses/school/science/department_of_computing_maths_physics/hdipcomputerscience2yearparttime","license":"Unless otherwise stated, this work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>.","basecourseurl":"wit-hdip-comp-sci-2019.github.io/"}
+  
+,
+  "type" : "talk",
+  "title" : "Academic Calendar  ",
+  "img" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s4/unit-4-sem-4/talk-2-academic-calendar-s3/",
+  
+  
+
+  "summary" : "weeks · reading week  · semester · onsites",
+  "id": "talk-2-academic-calendar-s3",
+  
+    "pdf" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s4/unit-4-sem-4/talk-2-academic-calendar-s3/calendar.pdf",
+    "route" : "#talk/wit-hdip-comp-sci-2019.github.io/topic-1-s4/unit-4-sem-4/talk-2-academic-calendar-s3/calendar.pdf"
+  
+
+      } ,
+     {
+      
+  
+  
+    "properties" : {"highlightstyle":"railscasts","faPanelicon":"fas fa-calendar-check fa-10x","disable":true,"parent":"../index.html","credits":"Department of Computing & Mathematics, WIT","faColour":"#304ffe","submodule":"true","slack":"https://wit-hdip-comp-sci.slack.com/messages/C86J6B55M/","moodle":"https://moodle.wit.ie/course/view.php?id=132121","courseurl":"https://wit-hdip-comp-sci-2019.github.io/","youtube":"https://www.youtube.com/channel/UCOJZMc0BQDXDljzdcxP2EDw/playlists","favicon":"favicon.ico","crest":"crestwit.jpg","cresturl":"https://www.wit.ie/courses/school/science/department_of_computing_maths_physics/hdipcomputerscience2yearparttime","license":"Unless otherwise stated, this work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>.","basecourseurl":"wit-hdip-comp-sci-2019.github.io/"}
+  
+,
+  "type" : "talk",
+  "title" : "Assessment Schedule  ",
+  "img" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s4/unit-4-sem-4/talk-3-assesment-schedule-sem-3/",
+  
+  
+
+  "summary" : "schedule · release · submission · dropboxes  · A1  · A2  · A3",
+  "id": "talk-3-assesment-schedule-sem-3",
+  
+    "pdf" : "https://wit-hdip-comp-sci-2019.github.io/topic-1-s4/unit-4-sem-4/talk-3-assesment-schedule-sem-3/assessment.pdf",
+    "route" : "#talk/wit-hdip-comp-sci-2019.github.io/topic-1-s4/unit-4-sem-4/talk-3-assesment-schedule-sem-3/assessment.pdf"
+  
+
+      } 
+     ]
+  
+
+    } 
+   ]
+
+  }
+ ]
+  }
+
